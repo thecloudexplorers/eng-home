@@ -1,6 +1,6 @@
 {
 	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate": "2024-07-09T12:00:00.000-00:00",
+	"CreationDate": "2024-11-11T19:45:54.948-00:00",
 	"Sources": [
 		{
 			"Packages": [
@@ -9,6 +9,9 @@
 				},
 				{
 					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "GitHub.cli"
 				},
 				{
 					"PackageIdentifier": "JGraph.Draw"
@@ -32,16 +35,16 @@
 					"PackageIdentifier": "Microsoft.RemoteDesktopClient"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Teams"
-				},
-				{
 					"PackageIdentifier": "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier": "Microsoft.WindowsTerminal"
 				},
 				{
-					"PackageIdentifier": "Python.Python.3.13"
+					"PackageIdentifier": "Microsoft.WingetCreate"
+				},
+				{
+					"PackageIdentifier": "Postman.Postman"
 				},
 				{
 					"PackageIdentifier": "Microsoft.DotNet.Runtime.8"
@@ -50,16 +53,40 @@
 					"PackageIdentifier": "Microsoft.DotNet.SDK.8"
 				},
 				{
-					"PackageIdentifier": "Microsoft.UI.Xaml.2.7"
-				},
-				{
-					"PackageIdentifier": "Microsoft.UI.Xaml.2.8"
-				},
-				{
 					"PackageIdentifier": "Microsoft.VCLibs.Desktop.14"
 				},
 				{
+					"PackageIdentifier": "Microsoft.VCRedist.2005.x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2005.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2008.x86"
+				},
+				{
 					"PackageIdentifier": "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2012.x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2013.x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VCRedist.2015+.x86"
 				},
 				{
 					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64"
@@ -73,5 +100,5 @@
 			}
 		}
 	],
-	"WinGetVersion": "1.8.1791"
+	"WinGetVersion": "1.10.30-preview"
 }
